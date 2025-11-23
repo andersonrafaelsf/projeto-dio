@@ -65,12 +65,12 @@ Passo a passo para reproduzir:
 
 Abaixo estão algumas evidências do processo, usando os arquivos da pasta `/Images`:
 
-![Bruteforce no FTP](Images/Bruteforce.png)
-![IP do Metasploitable](Images/IP_Metasploitable.png)
-![DVWA](Images/DVWA.png)
-![Login DVWA](Images/Login_DVWA.png)
-![Medusa](Images/Medusa.png)
-![Comando BF](Images/ComandoBF.png)
-![Enumeração SMB](Images/Enumeracao-smb.png)
-![Invasão](Images/invasao.png)
-![Wordlists ataque](Images/Wordlists-Ataque.png)
+![Bruteforce no FTP](Images/01-medusa-bruteforce-ftp.png)
+![IP do Metasploitable](Images/02-ip-config-metasploitable.png)
+![DVWA](Images/03-dvwa-home.png)
+![Login DVWA](Images/04-dvwa-login.png)
+![Medusa](Images/05-medusa-comando-executado.png)
+![Comando BF](Images/06-comando-bruteforce-medusa.png)
+![Enumeração SMB](Images/07-enumeracao-usuarios-smb.png)
+![Invasão](Images/08-acesso-obtido.png)
+![Wordlists ataque](Images/08-acesso-obtido.png)
