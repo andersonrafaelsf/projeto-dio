@@ -1,4 +1,4 @@
-# projetio-dio
+# projeto-dio
 
 🔐 1. Mitigações para Ataques de Força Bruta em FTP
 Problemas identificados
