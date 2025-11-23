@@ -28,9 +28,9 @@ Simular ataques, testar credenciais, documentar e propor defesas.
 - Interpretação das portas abertas
 
 ## 4. Ataques  
-4.1 Ataque FTP
-4.2 Ataque Web (DVWA) 
-4.3 Ataque SMB  
+- 4.1 Ataque FTP
+- 4.2 Ataque Web (DVWA) 
+- 4.3 Ataque SMB  
 
 ## 5. Resultados / Acessos Obtidos  
 Durante os testes realizados com o Kali Linux e o Metasploitable, consegui identificar serviços vulneráveis e realizar alguns acessos bem-sucedidos. No FTP, após o scan com Nmap, confirmei que o serviço estava aberto e consegui autenticar usando credenciais fracas, validando a vulnerabilidade do serviço. No DVWA, após configurar o ambiente no navegador, consegui acessar o painel utilizando as credenciais padrão do aplicativo, demonstrando como senhas simples permitem o acesso ao sistema. Já no SMB, usei o enum4linux para identificar usuários válidos e, com isso, consegui autenticar utilizando uma senha fraca, comprovando a fragilidade do serviço e a importância de políticas de senha mais rigorosas. As imagens adicionadas ao repositório mostram os scans realizados, os serviços identificados e os acessos obtidos durante o processo.
